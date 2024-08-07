@@ -20,10 +20,11 @@
 
 
 ### 加入我们
+#### QQ群:[438338988](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BfqvExMUQoDG3PeCt71PYUj3cjxN_rfn&authKey=O435nlMgqRiQ%2F%2B7fQzAAUZMfvxoADr6RccZJFCc40ZtuaOw6DRJcx3%2Fo7WfB9DVI&noverify=0&group_code=438338988)
 #### 服务器官网：[homo.xdhplqg.top](https://homo.xdhplqg.top)
 #### 服务器IP:`xdhplqg.top`
 #### 基岩版IP:`xdhplqg.top`Port:`19132`
-#### QQ群:438338988
+
 >[!TIP]
 > (遇到任何问题都可以随时骚扰腐竹)
 ##### 无论你是享受挑战的高手，还是新手玩家，EggSurvivalServer都欢迎你的加入。在这里，你可以找到一个热情友好的社区，和其他玩家一起探索、建造、生存，并享受到最纯粹的Minecraft乐趣。加入我们，体验真实而有趣的生存挑战，挑战自我、结交朋友、共同成长！
