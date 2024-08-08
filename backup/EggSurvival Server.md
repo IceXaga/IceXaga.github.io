@@ -1,4 +1,8 @@
-# 欢迎来到EggSurvival Server!
+<div align="center">
+<img align="left" src="https://github.com/XianDHP/xiandhp.github.io/blob/main/favicon.png?raw=true" width="40" heiget="40"></img>
+<h1>欢迎来到EggSurvival Server!</h1>
+</div>
+
 ###### EggSurvivalServer是一个Minecraft服务器，旨在提供玩家一个充满刺激和挑战的生存环境。在这个服务器上，玩家需要通过收集资源、建造基地和与其他玩家互动来生存下来。
 ---
 ### 服务器特色
